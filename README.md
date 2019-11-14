@@ -1,7 +1,7 @@
 # AppHoroscopo
 Aplicación para conocer el horoscopo chino para la asignatura de Cómputo movil de la facultad de ingenieria de la UNAM 
 
-####Instrucciones
+##Instrucciones
 
 Ingresa tus datos de inicio:
 
@@ -14,7 +14,7 @@ Correo electrónico (dirección electrónica válida según dominios comerciales
 
 Selecciona botón "Continuar"
 
-####Descripción de actividades
+##Descripción de actividades
 
 Activity 1: Despliegue del formulario de acceso al usuario, mediante el cual ingresa los datos de inicio
 Activity 2: Muestra el nombre, la edad y el signo del horozcopo chino que corresponde al usuario, según los datos ingresados.
