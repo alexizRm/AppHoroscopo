@@ -6,16 +6,16 @@ Aplicación para conocer el horoscopo chino para la asignatura de Cómputo movil
 Ingresa tus datos de inicio:
 
 
-Nombre de usuario (aceptará caracteres alfabéticos y no numéricos)
+1.Nombre de usuario (aceptará caracteres alfabéticos y no numéricos)
 
-Número de cuenta (aceptará 9 digitos)
+2.Número de cuenta (aceptará 9 digitos)
 
-Fecha de nacimiento (en formato dd/mm/aaaa e incluir diagonales)
+3.Fecha de nacimiento (en formato dd/mm/aaaa e incluir diagonales)
 
-Correo electrónico (dirección electrónica válida según dominios comerciales gmai.com, hotmail.com, etc)
+4.Correo electrónico (dirección electrónica válida según dominios comerciales gmai.com, hotmail.com, etc)
 
 
-Selecciona botón "Continuar"
+-Selecciona botón "Continuar"
 
 ##Descripción de actividades
 
