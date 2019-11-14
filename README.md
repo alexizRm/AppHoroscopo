@@ -7,8 +7,11 @@ Ingresa tus datos de inicio:
 
 
 Nombre de usuario (aceptará caracteres alfabéticos y no numéricos)
+
 Número de cuenta (aceptará 9 digitos)
+
 Fecha de nacimiento (en formato dd/mm/aaaa e incluir diagonales)
+
 Correo electrónico (dirección electrónica válida según dominios comerciales gmai.com, hotmail.com, etc)
 
 
