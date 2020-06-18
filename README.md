@@ -1,4 +1,4 @@
-Aplicacion Horoscopo chino
+
 Aplicación para conocer el horoscopo chino para la asignatura de Cómputo movil de la facultad de ingenieria de la UNAM 
 
 ##Instrucciones
